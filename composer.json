@@ -1,0 +1,6 @@
+{
+    "require": {
+        "yurunsoft/pay-sdk": "~2.0",
+        "yurunsoft/yurun-oauth-login": "~2.0"
+    }
+}
